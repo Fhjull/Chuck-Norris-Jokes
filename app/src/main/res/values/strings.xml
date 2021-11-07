@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Chuck Norris Jokes</string>
+    <string name="title_jokes">Jokes</string>
+    <string name="title_web">Api Info</string>
+    <string name="web">Web</string>
+    <string name="edit_text_hint">Count</string>
+    <string name="reload_button_text">Reload</string>
+</resources>
