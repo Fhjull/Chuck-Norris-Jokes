@@ -57,6 +57,7 @@ class WebFragment : Fragment() {
         settings.javaScriptEnabled = true
         settings.builtInZoomControls = true
         settings.displayZoomControls = false
+        webView.setInitialScale(100)
 
         // Allows to go to previous page when hardware button back is tapped
         webView.setOnKeyListener(object : View.OnKeyListener {
